@@ -37,6 +37,7 @@ WORKDIR /app
 RUN <<EOT bash
   set -ex
   mkdir -p ./{input,output,preset}
+  cp -r /build/preset ./
   rm -rf /build
 EOT
 
