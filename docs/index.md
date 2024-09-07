@@ -1,4 +1,4 @@
-# MKVrestyle
+# MKVresort
 
 A command-line utility for resorting video, audio and subtitle streams.
 
